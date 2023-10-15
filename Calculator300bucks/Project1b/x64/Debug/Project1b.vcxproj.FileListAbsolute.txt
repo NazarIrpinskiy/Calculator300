@@ -1,0 +1,12 @@
+C:\Users\bonda\Desktop\RightLab\#C++\projects_kurs_WinForms\Project1b\Project1b\x64\Debug\Project1b.vcxproj.AssemblyReference.cache
+C:\Users\bonda\Desktop\RightLab\#C++\projects_kurs_WinForms\Project1b\Project1b\x64\Debug\Project1b.MyForm.resources
+C:\Users\bonda\Desktop\RightLab\#C++\projects_kurs_WinForms\Project1b\Project1b\x64\Debug\Project1b.vcxproj.GenerateResource.cache
+C:\Users\bonda\Desktop\RightLab\#C++\projects_kurs_WinForms\Project2\Project1b\x64\Debug\Project1b.vcxproj.AssemblyReference.cache
+C:\Users\bonda\Desktop\RightLab\#C++\projects_kurs_WinForms\Project2\Project1b\x64\Debug\Project1b.MyForm.resources
+C:\Users\bonda\Desktop\RightLab\#C++\projects_kurs_WinForms\Project2\Project1b\x64\Debug\Project1b.vcxproj.GenerateResource.cache
+C:\Users\bonda\Desktop\RightLab\#C++\##2023\Calculator300bucks\Project1b\x64\Debug\Project1b.vcxproj.AssemblyReference.cache
+C:\Users\bonda\Desktop\RightLab\#C++\##2023\Calculator300bucks\Project1b\x64\Debug\Project1b.MyForm.resources
+C:\Users\bonda\Desktop\RightLab\#C++\##2023\Calculator300bucks\Project1b\x64\Debug\Project1b.vcxproj.GenerateResource.cache
+C:\Users\bonda\Desktop\RightLab\C++\#2023\Calculator300bucks\Project1b\x64\Debug\Project1b.vcxproj.AssemblyReference.cache
+C:\Users\bonda\Desktop\RightLab\C++\#2023\Calculator300bucks\Project1b\x64\Debug\Project1b.MyForm.resources
+C:\Users\bonda\Desktop\RightLab\C++\#2023\Calculator300bucks\Project1b\x64\Debug\Project1b.vcxproj.GenerateResource.cache

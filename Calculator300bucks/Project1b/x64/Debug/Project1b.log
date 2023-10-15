@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\bonda\Desktop\RightLab\C++\#2023\Calculator300bucks\Project1b\MyForm.h(502,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bonda\Desktop\RightLab\C++\#2023\Calculator300bucks\Project1b\MyForm.h(511,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bonda\Desktop\RightLab\C++\#2023\Calculator300bucks\Project1b\MyForm.h(540,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1b.vcxproj -> C:\Users\bonda\Desktop\RightLab\C++\#2023\Calculator300bucks\x64\Debug\Project1b.exe
